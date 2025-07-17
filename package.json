@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "react-scripts": "5.0.1"
+    "@babel/plugin-syntax-flow": "^7.27.1",
+    "@babel/plugin-transform-react-jsx": "^7.27.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "typescript": "^5.8.3"
   }
 }
